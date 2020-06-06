@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Grape ID</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login_button">Login</string>
+    <string name="next_button">Next</string>
+    <string name="gotit_button">Got It</string>
+    <string name="newuser">New user</string>
+    <string name="registernow">Register Now ></string>
+    <string name="todo">TODO</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="prompt_primaryemail">Primary Email</string>
+    <string name="prompt_cellphonenumber">Cell Phone Number</string>
+    <string name="prompt_creatapinorpassword">Create A PIN or Password</string>
+
+    <string name="welcomeText">Welcome</string>
+    <string name="successText">You are now</string>
+    <string name="successText2">registered!</string>
+    <string name="usa">United States ID</string>
+    <string name="foreign">Foreign ID</string>
+    <string name="welcomeHeaderText">You will need your <b>government issued photo ID</b> in the next step.</string>
+    <string name="redirectingHeaderText">Redirecting in 5 seconds...</string>
+    <string name="selfieHeaderText">Now it\'s time for your selfie.  We use facial\nreconnition to match your selfiephoto to\nthe photo in your gov-issued ID.</string>
+    <string name="govtIDHeaderText">Grape ID is raising the bar for security.  Every user\'s identity must be verified using a govt-issued photo id. <i>All data is secured from your phone to our\n servers via bank-level encryption.</i></string>
+</resources>

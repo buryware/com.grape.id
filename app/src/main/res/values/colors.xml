@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTextColor">#f5f5f7</color>
+    <color name="colorFocusColor">#FF9C27B0</color>
+    <color name="colorDepressedColor">#590867</color>
+    <color name="colorDepressedColor2">#D48CE1</color>
+    <color name="colorWelcomeColor">#8BC34A</color>
+    <color name="colorHeaderColor">#050505</color>
+    <color name="colorRegisterNow">#60A6AE</color>
+    <color name="colorRegisterNowBKGND">#FFFFFF</color>
+</resources>
